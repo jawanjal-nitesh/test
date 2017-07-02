@@ -1,6 +1,6 @@
-[![Build Status]]()
-[![Release Version]]()
-[![License]]()
+[![Build Status]()]()
+[![Release Version]()]()
+[![License](https://img.shields.io/hexpm/l/plug.svg?maxAge=2592000)]()
 
 
 Testing the readme
