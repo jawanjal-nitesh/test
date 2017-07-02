@@ -27,5 +27,5 @@ Testing the readme
 You can `highlight` by using "``" 
  
  ```
-  Highlated Block
+  highlighted Block
  ```
