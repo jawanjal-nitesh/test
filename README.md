@@ -1,6 +1,6 @@
-[![Build Status]]
-[![Release Version]]
-[![License]]
+[![Build Status]]()
+[![Release Version]]()
+[![License]]()
 
 
 Testing the readme
