@@ -1,3 +1,8 @@
+[![Build Status]]
+[![Release Version]]
+[![License]]
+
+
 Testing the readme
 ===================
 
